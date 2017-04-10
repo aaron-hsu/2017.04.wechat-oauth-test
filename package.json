@@ -1,0 +1,15 @@
+{
+  "name": "wechat-oauth-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wechat-oauth": "^1.2.1",
+    "wx_jsapi_sign": "^1.0.4"
+  }
+}
